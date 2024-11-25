@@ -1,5 +1,5 @@
 ## Ello
-My name is Declan S, a 17 year old student. Most of the stuff I work on includes embedded systems with the Arduino, Nordic and ESP32 suites.
+My name is Declan S, a 17 year old student. Most of the stuff I work on includes embedded systems with the Arduino, Nordic and ESP32 suites. I also work on the data analysis for some of the embedded projects I do using python using mainly the python libraries matplotlib, pandas and numpy.
 
 Some stats:
 
